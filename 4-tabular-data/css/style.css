@@ -1,3 +1,4 @@
+/* "overflow-x: auto" allows for horizontal scrolling when content extends beyond display width-- but it requires set width to work */
 .container {
     padding: 0px 5%;
     width: 70%;
